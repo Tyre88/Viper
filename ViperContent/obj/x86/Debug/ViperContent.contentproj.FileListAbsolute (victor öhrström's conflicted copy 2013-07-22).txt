@@ -1,0 +1,2 @@
+D:\DropBox\Dropbox\utveckling\Spel\Viper\ViperContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\utveckling\Spel\Viper\ViperContent\obj\x86\Debug\ResolveAssemblyReference.cache

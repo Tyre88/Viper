@@ -1,0 +1,17 @@
+Content\TileSet\Woodland_Tileset.xnb
+Content\Player\SnakeBody.xnb
+Content\Player\SnakeHead.xnb
+Content\Border.xnb
+Content\Player\snake_end16.xnb
+Content\Player\snake_head16.xnb
+Content\Player\snake_mid16.xnb
+Content\GameObjects\objects.xnb
+Content\GameObjects\Toxictube.xnb
+Content\Effects\Player1Color.xnb
+Content\Effects\Player2Color.xnb
+Content\Transition\Black800x640.xnb
+Content\Font\BaseFont.xnb
+Content\Font\DescriptionFont.xnb
+Content\Font\GameBaseFont.xnb
+Content\Font\GameObjectFont.xnb
+Content\Maps\ForestViper.txt
